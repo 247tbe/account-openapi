@@ -1,0 +1,8 @@
+ ____  _____ _   ___   ___   _ _   _
+/ ___|| ____| | | \ \ / / | | | \ | |
+\___ \|  _| | |_| |\ V /| | | |  \| |
+ ___) | |___|  _  | | | | |_| | |\  |
+|____/|_____|_| |_| |_|  \___/|_| \_|
+
+* Application Title : ${application.title}
+* Application Version : ${application.formatted-version}
